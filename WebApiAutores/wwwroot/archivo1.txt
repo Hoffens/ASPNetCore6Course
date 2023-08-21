@@ -1,0 +1,10 @@
+Proceso iniciado
+Proceso en ejecucion: 21-08-2023 08:10:42
+Proceso en ejecucion: 21-08-2023 08:10:47
+Proceso en ejecucion: 21-08-2023 08:10:52
+Proceso en ejecucion: 21-08-2023 08:10:57
+Proceso en ejecucion: 21-08-2023 08:11:02
+Proceso en ejecucion: 21-08-2023 08:11:07
+Proceso en ejecucion: 21-08-2023 08:11:12
+Proceso en ejecucion: 21-08-2023 08:11:17
+Proceso finalizado
